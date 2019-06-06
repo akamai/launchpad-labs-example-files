@@ -17,30 +17,30 @@
                 "apiReferenceTitle": "",
                 "applyBestFileType": true,
                 "enabled": true,
-                "policyTokenDefault": "<unique_name>",
+                "policyTokenDefault": "enough-sun-7_web_astronaut_training",
                 "resize": false,
                 "settingsTitle": "",
                 "superCacheRegion": "US",
                 "trafficTitle": "",
                 "cpCodeOriginal": {
-                    "id": 749512,
-                    "description": "world-tour",
+                    "id": 856168,
+                    "description": "launchpad",
                     "products": [
-                        "SPM"
+                        "Fresca"
                     ],
-                    "createdDate": 1536688683000,
+                    "createdDate": 1559440614000,
                     "cpCodeLimits": null,
-                    "name": "world-tour"
+                    "name": "launchpad",
                 },
                 "cpCodeTransformed": {
-                    "id": 749512,
-                    "description": "world-tour",
+                    "id": 856168,
+                    "description": "launchpad",
                     "products": [
-                        "SPM"
+                        "Fresca"
                     ],
-                    "createdDate": 1536688683000,
+                    "createdDate": 1559440614000,
                     "cpCodeLimits": null,
-                    "name": "world-tour"
+                    "name": "launchpad",
                 }
             }
         }
