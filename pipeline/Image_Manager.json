@@ -30,7 +30,7 @@
                     ],
                     "createdDate": 1559440614000,
                     "cpCodeLimits": null,
-                    "name": "launchpad",
+                    "name": "launchpad"
                 },
                 "cpCodeTransformed": {
                     "id": 856168,
@@ -40,7 +40,7 @@
                     ],
                     "createdDate": 1559440614000,
                     "cpCodeLimits": null,
-                    "name": "launchpad",
+                    "name": "launchpad"
                 }
             }
         }
