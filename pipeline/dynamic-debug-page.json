@@ -6,7 +6,7 @@
             "name": "constructResponse",
             "options": {
                 "enabled": true,
-                "body": "<html><body>Your IP is: {{builtin.AK_CLIENT_REAL_IP}}<br/>Your network latency is: {{builtin.AK_CLIENT_RTT}} <br/>You are connected to Edge Server: {{builtin.AK_GHOST_IP}}<br/>Your HTTP protocol version is: {{builtin.AK_PROTOCOL_NEGOTIATION}}</body></html>",
+                "body": "<html><body>Your IP is: {{builtin.AK_CLIENT_REAL_IP}}<br/>Your network latency is: {{builtin.AK_CLIENT_RTT}} <br/>You are connected to Edge Server: {{builtin.AK_GHOST_IP}}<br/>Your TLS version is: {{builtin.AK_TLS_VERSION}}<br/>Your TLS cipher is: {{builtin.AK_TLS_CIPHER_NAME}}</body></html>",
                 "responseCode": 200,
                 "forceEviction": false
             }
